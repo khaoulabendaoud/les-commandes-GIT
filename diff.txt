@@ -1,0 +1,12 @@
+diff --git a/menu.txt b/menu.txt
+index 7420f91..97bfbc8 100644
+--- a/menu.txt
++++ b/menu.txt
+@@ -1,4 +1,7 @@
++
+ Strak beauf
+ Salade marocaine 
+ Filet de dinde
+ Gâteau citronnelle
++keskeso
++rfisa

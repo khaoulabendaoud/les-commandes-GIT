@@ -1,0 +1,7 @@
+total 8
+-rw-r--r-- 1 Youcode 197609  196 nov.  20 14:58 diff.txt
+-rw-r--r-- 1 Youcode 197609 1118 nov.  20 14:11 khaoula.cbp
+-rw-r--r-- 1 Youcode 197609   48 nov.  20 14:11 khaoula.html
+-rw-r--r-- 1 Youcode 197609  486 nov.  20 14:50 log.txt
+-rw-r--r-- 1 Youcode 197609   80 nov.  20 14:39 menu.txt
+-rw-r--r-- 1 Youcode 197609    0 nov.  20 15:09 toto.txt
